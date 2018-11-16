@@ -1,5 +1,5 @@
 # Porque...
-La conferencia de seguridad Bsides lanzo un Call for Papers (CFP) en el que postulé con un análisis de un Fileless malware que me tocó luchar en la respuesta de un incidente.
+La conferencia de seguridad Bsides lanzó un Call for Papers (CFP) en el que postulé con un análisis de un Fileless malware que me tocó luchar en la respuesta de un incidente.
 
 # Objetivo
 El objetivo de esta charla era compartir lo que aprendí luchando contra este Fileless malware (ya que no soy analista de Malware). El día de ese incidente de ciberseguridad tuve que estudiar mucho para entender como derrotar al bicho. Estudié sobre WMIC, Powershell y otras hierbas que tiene Windows. La idea era que si alguno le tocaba lo mismo, se ahorrara las 5 horas que invertí durante el incidente en entender y preparar una cura.
