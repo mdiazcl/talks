@@ -1,11 +1,11 @@
 # Mis charlas
-Acá ire dejando las presentaciones de algunas de las charlas que he realizado con el fin de que las puedan descargar y leer cuando quieran.
+Acá iré dejando las presentaciones de algunas de las charlas que he realizado con el fin de que las puedan descargar y leer cuando quieran.
 
 Les dejo el resumen de algunas! No estan en orden!
 
 Charla | Dónde | Año | ¿Por qué? | Objetivo
 --- | --- | --- | --- | ---
-Threat Hunting | CisoSummit - Perú | 2019 | Mostrar la visión y ejecución del Threat Hunting como una medida proactiva de defensa. | El objetivo fue presentar la visión de threat hunting como una herramienta necesaria para los CISOs en la protección de su empresa.
+Threat Hunting - Un enfoque proactivo de ciberdefensa | CisoSummit - Perú | 2019 | Mostrar la visión y ejecución del Threat Hunting como una medida proactiva de defensa. | El objetivo fue presentar la visión de threat hunting como una herramienta necesaria para los CISOs en la protección de su empresa.
 Machine Learning e Inteligencia Artificial | eTalks - Entel | 2019 | Presentar la visión de Entel Cybersecure y una introducción a como la Inteligencia Artificial y Machine Learning funcionan. | El objetivo fue dar pinceladas de cómo es que funcionan los principios básicos de estas tecnologías.
 Emotet: La amenaza despues del phishing | Cybersecurity Conference - Perú | 2019 | Presentar de que trata emotet, como funciona y cuales son los pasos para realizar una respuesta de incidentes frente a este APT. | El objetivo fue presentar la misma charla que se realizó en Chile. Con esta charla los asistentes podrían entender como funcionan los malware polimorficos y avanzados.
 Emotet: La amenaza despues del phishing | eTalks - Entel | 2019 | Presentar de que trata emotet, como funciona y cuales son los pasos para realizar una respuesta de incidentes frente a este APT. | Con esta charla los asistentes podrían entender como funcionan los malware polimorficos y avanzados.
